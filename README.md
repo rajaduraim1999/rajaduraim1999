@@ -18,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rajaduraim1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajaduraim1999" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rajadurai m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajadurai m" height="30" width="40" /></a>
-<a href="https://fb.com/m rajadurai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m rajadurai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rajaduraim1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajaduraim1999" height="30" width="40" /></a>
+<a href="https://facebook.com/rajadurai.rajadurai.94009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m rajadurai" height="30" width="40" /></a>
 <a href="https://instagram.com/rajaduraim1999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajaduraim1999" height="30" width="40" /></a>
 </p>
 
