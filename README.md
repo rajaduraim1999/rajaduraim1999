@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/rajaduraim1999" target="blank"><img src="https://img.shields.io/twitter/follow/rajaduraim1999?logo=twitter&style=for-the-badge" alt="rajaduraim1999" /></a> </p>
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 - 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Open source projects**
