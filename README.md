@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajadurai M</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Android+Developer;Android%20Studio%20|%20Kotlin%20|%20Java;UI/UX%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
 <h3 align="center">A passionate android developer from Chennai</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajaduraim1999&label=Profile%20views&color=0e75b6&style=flat" alt="rajaduraim1999" /> </p>
@@ -31,3 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajaduraim1999&show_icons=true&locale=en&layout=compact" alt="rajaduraim1999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajaduraim1999&show_icons=true&locale=en" alt="rajaduraim1999" /></p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
